@@ -32,11 +32,12 @@ healthcare professionals and caregivers.
 
 Existing & Proposed System :
  
-    The current landscape of therapy efficacy assessment for Autism Spectrum Disorder (ASD) predominantly relies on subjective assessment, clinical judgment, and 
-standardized behavioral assessment tools. We have created the model named Therapy efficacy model (TEM). 
+    The current landscape of therapy efficacy assessment for Autism Spectrum Disorder (ASD) predominantly relies on subjective assessment, 
+    clinical judgment, and standardized behavioral assessment tools. We have created the model named Therapy efficacy model (TEM). 
 
-    - The TEM combines behavioral assessments, therapy response history, cognitive function data, and socio-environmental factors for a holistic therapy evaluation.
-    
+    - The TEM combines behavioral assessments, therapy response history, cognitive function data, and socio-environmental factors 
+     for a holistic therapy evaluation.
+     
      - We utilize LSTM networks, attention mechanisms, autoencoders, and ensemble learning for therapy effectiveness prediction.
      
 Algorithm : 
